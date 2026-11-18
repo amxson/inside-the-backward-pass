@@ -42,5 +42,6 @@ The dataset is generated in the notebook. Rerunning the training cell recreates 
 | File | Purpose |
 | --- | --- |
 | [Inside_the_Backward_Pass.ipynb](Inside_the_Backward_Pass.ipynb) | Derivations, implementation, executed checks, and XOR experiment |
+| [Inside_the_Backward_Pass_Report.pdf](Inside_the_Backward_Pass_Report.pdf) | Technical report covering the derivations, gradient verification, and XOR results |
 | [requirements.txt](requirements.txt) | Numerical and plotting dependencies |
 | [.gitignore](.gitignore) | Excludes local Python, Jupyter, and editor artifacts |
